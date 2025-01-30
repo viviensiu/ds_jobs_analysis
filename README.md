@@ -9,6 +9,6 @@
     * Plan our job search better.
 
 ## Useful Links
-* [Interactive map on number of jobs across locations in the UK]()
-* [LDA visualisation on Data Analyst job skills]()
-* [LDA visualisation on Data Scientist job skills]()
+* [Interactive map on number of jobs across locations in the UK](ds_job_uk_map.html)
+* [LDA visualisation on Data Analyst job skills](da_skills_ldavis.html)
+* [LDA visualisation on Data Scientist job skills](ds_skills_ldavis.html)
